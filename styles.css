@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+#main{
+    height:auto;
+    background-color: bisque;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+
+}
+.about{
+    margin:auto;
+    text-align: center;
+    padding: 10px 0px;
+}
+p{
+    text-align:justify;
+    padding: 0 10%;
+    font-size:large;
+}
+#myImg{
+    padding-top: 10px;
+}
+#myLink:hover{
+    color: black;
+}
